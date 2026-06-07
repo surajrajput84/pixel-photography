@@ -86,9 +86,11 @@ Add screenshots of your website here.
 
 Example:
 
-![Home Page](screenshots/home.png)
+<img width="1919" height="1001" alt="image" src="https://github.com/user-attachments/assets/de3415ba-ad6b-4c39-bc18-34b038a3e138" />
 
-![Gallery Page](screenshots/gallery.png)
+
+<img width="1912" height="993" alt="image" src="https://github.com/user-attachments/assets/c60e0588-061c-4fe4-9f62-a77149e91dea" />
+
 
 ---
 
@@ -101,24 +103,5 @@ Example:
 
 ---
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome.
 
-If you'd like to contribute:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
-### ⭐ If you like this project, don't forget to star the repository!
